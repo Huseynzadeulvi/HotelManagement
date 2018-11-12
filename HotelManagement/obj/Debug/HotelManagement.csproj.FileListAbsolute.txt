@@ -1,0 +1,7 @@
+C:\Users\Ulvi\source\repos\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\Ulvi\source\repos\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\Ulvi\source\repos\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\Ulvi\source\repos\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csprojAssemblyReference.cache
+C:\Users\Ulvi\source\repos\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi\source\repos\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\Ulvi\source\repos\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
